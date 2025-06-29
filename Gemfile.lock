@@ -32,6 +32,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  arm64-darwin-23
 
 DEPENDENCIES
   rake (~> 13.0)
@@ -39,4 +40,4 @@ DEPENDENCIES
   shared_credentials!
 
 BUNDLED WITH
-   2.4.10
+   2.5.7
